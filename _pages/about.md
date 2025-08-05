@@ -21,39 +21,47 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J Sci Comput 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**[1]** Yiming Chen, Dianlun Luo, Wenlong Pei, Yulong Xing. [Efficient Variable Time-stepping Adaptive DLN Algorithms for the Allen-Cahn Equation](https://doi.org/10.1007/s10915-025-02980-4). *J Sci Comput* **104**, 67 (2025).
 
-[Efficient Variable Time-stepping Adaptive DLN Algorithms for the Allen-Cahn Equation](https://doi.org/10.1007/s10915-025-02980-4)
+**[2]** Mehmet Celik, Mathis Duguin, Jia Guo, Dianlun Luo, Kamryn Spinelli, Yunus E. Zeytuncu, Zhuoyu Zhu. [Exploring a Geometric Conjecture, Some Properties of Blaschke Products, and the Geometry of Curves Formed by Them](https://doi.org/10.1007/s40315-025-00579-2). *Comput. Methods Funct. Theory* (2025).
 
-**Yiming Chen, Dianlun Luo, Wenlong Pei, Yulong Xing**
+**[3]** Qilong Cheng, Chao Tang, Dianlun Luo, Minjoon Park, Steven Tian, Yuan Yang. [A Dynamic Wall Design with Tunable Angular Emissivity for All-season Thermal Regulation](https://doi.org/10.1016/j.xcrp.2024.101934). *Cell Reports Physical Science* **5**, no. 5 (May 1, 2024): 101934–34.
 
-[**Paper**](https://doi.org/10.1007/s10915-025-02980-4) <strong><span class='show_paper_citations' data=''></span></strong>
-</div>
-</div>
+# 🎤 Talks
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comput. Methods Funct. Theory 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 2025 Joint Mathematics Meetings
+*January 8-10, 2025, Seattle, WA*
+- **Applied and Numerical Aspects of Nonlocal Initial Value Problems** (January 8, 2025)
+- **Applied and Numerical Aspects of Nonlocal Initial Value Problems** (January 10, 2025)
 
-[Exploring a Geometric Conjecture, Some Properties of Blaschke Products, and the Geometry of Curves Formed by Them](https://doi.org/10.1007/s40315-025-00579-2)
+## Polymath Jr. Final Conference
+*August 14, 2024, Virtual*
+- **Nonlocal Initial Value Problems - Theoretical, Modeling, and Numerical Aspects**
 
-**Mehmet Celik, Mathis Duguin, Jia Guo, Dianlun Luo, Kamryn Spinelli, Yunus E. Zeytuncu, Zhuoyu Zhu**
+## Undergraduate Summer School on Modeling and Simulation with Partial Differential Equations, Texas A&M University
+*May 31, 2024, College Station, TX*
+- **Hyperbolic Nonlinear Elasticity. An Investigation.**
 
-[**Paper**](https://doi.org/10.1007/s40315-025-00579-2) <strong><span class='show_paper_citations' data=''></span></strong>
-</div>
-</div>
+## MATH UN3951 Undergraduate Seminars I (Toric Varieties), Columbia University
+*October-November 2023, New York, NY*
+- **Toric resolution of singularities** (October 25, 2023)
+- **Reflexive polytopes and Fano toric varieties** (November 19, 2023)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Physical Science 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 2023 Young Mathematicians Conference, The Ohio State University
+*August 15, 2023, Columbus, OH*
+- **Study of Variable Step Method of Dahlquist, Liniger, and Nevanlinna for the Allen-Cahn Model**
 
-[A Dynamic Wall Design with Tunable Angular Emissivity for All-season Thermal Regulation](https://doi.org/10.1016/j.xcrp.2024.101934)
+## 2023 Summer Research Symposium, The Ohio State University
+*July 27, 2023, Columbus, OH*
+- **Study of Variable Step Method of Dahlquist, Liniger, and Nevanlinna for the Allen-Cahn Model**
 
-**Qilong Cheng, Chao Tang, Dianlun Luo, Minjoon Park, Steven Tian, Yuan Yang**
+## 2023 Joint Mathematics Meetings
+*January 7, 2023, Boston, MA*
+- **Finding Ellipses: Blaschke products and their connection with Poncelet's theorem**
 
-[**Paper**](https://doi.org/10.1016/j.xcrp.2024.101934) <strong><span class='show_paper_citations' data=''></span></strong>
-</div>
-</div>
-
+## Directed Reading Program, Columbia University
+*December 15, 2022, New York, NY*
+- **Introduction to Elliptic Curves and Mordell's Theorem**
 
 # 💬 Research Experience
 
@@ -61,7 +69,9 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 *Jul 2024 - Sep 2024, Virtual*
 
 **Project 1: Poisson Surface Reconstruction**
+
 **Project 2: Geometry-aware Facial Expression and Head Synthesis**
+
 **Project 3: TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**
 
 ## Nonlocal Models Research, 2024 Polymath Jr. REU
@@ -74,6 +84,10 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 *Jan 2023 - May 2023, New York, NY*
 
 ## 2022 Polymath Jr. REU
+*Jun 2022 - Jun 2023, Virtual*
+
+## Summer School in Modeling and Simulation with PDE, Texas A&M University
+*May 2024, College Station, TX*
 
 # 💼 Internship Experience
 
