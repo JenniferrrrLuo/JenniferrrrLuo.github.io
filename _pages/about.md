@@ -30,12 +30,12 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 # 🎤 Talks
 
 **[2025]** **Joint Mathematics Meetings**  
-*January 8-10, 2025, Seattle, WA*
-- **Applied and Numerical Aspects of Nonlocal Initial Value Problems** (January 8, 2025)
-- **Applied and Numerical Aspects of Nonlocal Initial Value Problems** (January 10, 2025)
+*Jan 8-10, 2025, Seattle, WA*
+- **Applied and Numerical Aspects of Nonlocal Initial Value Problems** (Jan 8, 2025)
+- **Applied and Numerical Aspects of Nonlocal Initial Value Problems** (Jan 10, 2025)
 
 **[2024]** **Polymath Jr. Final Conference**  
-*August 14, 2024, Virtual*
+*Aug 14, 2024, Virtual*
 - **Nonlocal Initial Value Problems - Theoretical, Modeling, and Numerical Aspects**
 
 **[2024]** **Undergraduate Summer School on Modeling and Simulation with Partial Differential Equations, Texas A&M University**  
@@ -43,24 +43,24 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 - **Hyperbolic Nonlinear Elasticity. An Investigation.**
 
 **[2023]** **MATH UN3951 Undergraduate Seminars I (Toric Varieties), Columbia University**  
-*October-November 2023, New York, NY*
-- **Toric resolution of singularities** (October 25, 2023)
-- **Reflexive polytopes and Fano toric varieties** (November 19, 2023)
+*Oct 2023 - Nov 2023, New York, NY*
+- **Toric resolution of singularities** (Oct 25, 2023)
+- **Reflexive polytopes and Fano toric varieties** (Nov 19, 2023)
 
 **[2023]** **Young Mathematicians Conference, The Ohio State University**  
-*August 15, 2023, Columbus, OH*
+*Aug 15, 2023, Columbus, OH*
 - **Study of Variable Step Method of Dahlquist, Liniger, and Nevanlinna for the Allen-Cahn Model**
 
 **[2023]** **Summer Research Symposium, The Ohio State University**  
-*July 27, 2023, Columbus, OH*
+*Jul 27, 2023, Columbus, OH*
 - **Study of Variable Step Method of Dahlquist, Liniger, and Nevanlinna for the Allen-Cahn Model**
 
 **[2023]** **Joint Mathematics Meetings**  
-*January 7, 2023, Boston, MA*
+*Jan 7, 2023, Boston, MA*
 - **Finding Ellipses: Blaschke products and their connection with Poncelet's theorem**
 
 **[2022]** **Directed Reading Program, Columbia University**  
-*December 15, 2022, New York, NY*
+*Dec 15, 2022, New York, NY*
 - **Introduction to Elliptic Curves and Mordell's Theorem**
 
 # 💬 Research Experience
@@ -81,13 +81,13 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
   *Mentored by Minghao Guo*
 
 **[2024-2025]** **Polymath Jr. REU**  
-*Jun 2024 - Jan 2025, Virtual*
+*Jun 2024 - Aug 2025 (continued till Jan 2025), Virtual*
 
 **[2024]** **Summer School in Modeling and Simulation with PDE, Texas A&M University**  
 *May 2024, College Station, TX*
 
-**[2023]** **Research Opportunities in Mathematics for Underrepresented Students (ROMUS) Program, Ohio State University**  
-*Jun 2023 - August 2023, Columbus, OH*
+**[2023-2025]** **Research Opportunities in Mathematics for Underrepresented Students (ROMUS) Program, Ohio State University**  
+*Jun 2023 - Aug 2023 (continued till May 2025), Columbus, OH*
 
 *Mentored by Prof. Yulong Xing*
 
@@ -97,7 +97,7 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 *Mentored by Prof. Yuan Yang, Dr. Qilong Cheng*
 
 **[2022-2023]** **Polymath Jr. REU**  
-*Jun 2022 - Jun 2023, Virtual*
+*Jun 2022 - Aug 2022 (continued till Jun 2023), Virtual*
 
 # 💼 Internship Experience
 
