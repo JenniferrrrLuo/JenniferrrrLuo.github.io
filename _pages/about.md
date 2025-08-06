@@ -29,69 +29,74 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 
 # 🎤 Talks
 
-## 2025 Joint Mathematics Meetings
+### 2025 Joint Mathematics Meetings
 *January 8-10, 2025, Seattle, WA*
 - **Applied and Numerical Aspects of Nonlocal Initial Value Problems** (January 8, 2025)
 - **Applied and Numerical Aspects of Nonlocal Initial Value Problems** (January 10, 2025)
 
-## Polymath Jr. Final Conference
+### Polymath Jr. Final Conference
 *August 14, 2024, Virtual*
 - **Nonlocal Initial Value Problems - Theoretical, Modeling, and Numerical Aspects**
 
-## Undergraduate Summer School on Modeling and Simulation with Partial Differential Equations, Texas A&M University
+### Undergraduate Summer School on Modeling and Simulation with Partial Differential Equations, Texas A&M University
 *May 31, 2024, College Station, TX*
 - **Hyperbolic Nonlinear Elasticity. An Investigation.**
 
-## MATH UN3951 Undergraduate Seminars I (Toric Varieties), Columbia University
+### MATH UN3951 Undergraduate Seminars I (Toric Varieties), Columbia University
 *October-November 2023, New York, NY*
 - **Toric resolution of singularities** (October 25, 2023)
 - **Reflexive polytopes and Fano toric varieties** (November 19, 2023)
 
-## 2023 Young Mathematicians Conference, The Ohio State University
+### 2023 Young Mathematicians Conference, The Ohio State University
 *August 15, 2023, Columbus, OH*
 - **Study of Variable Step Method of Dahlquist, Liniger, and Nevanlinna for the Allen-Cahn Model**
 
-## 2023 Summer Research Symposium, The Ohio State University
+### 2023 Summer Research Symposium, The Ohio State University
 *July 27, 2023, Columbus, OH*
 - **Study of Variable Step Method of Dahlquist, Liniger, and Nevanlinna for the Allen-Cahn Model**
 
-## 2023 Joint Mathematics Meetings
+### 2023 Joint Mathematics Meetings
 *January 7, 2023, Boston, MA*
 - **Finding Ellipses: Blaschke products and their connection with Poncelet's theorem**
 
-## Directed Reading Program, Columbia University
+### Directed Reading Program, Columbia University
 *December 15, 2022, New York, NY*
 - **Introduction to Elliptic Curves and Mordell's Theorem**
 
 # 💬 Research Experience
 
-## MIT Summer Geometry Initiative 2024 Fellow
+### MIT Summer Geometry Initiative 2024 Fellow
 *Jul 2024 - Sep 2024, Virtual*
 
 - **Project 1: Poisson Surface Reconstruction**
+  
   *Mentored by Oded Stein and Silvia Sellán*
 
 - **Project 2: Geometry-aware Facial Expression and Head Synthesis**
+
   *Mentored by Dena Bazazian*
 
 - **Project 3: TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**
+  
   *Mentored by Minghao Guo*
 
-## 2024 Polymath Jr. REU
+### 2024 Polymath Jr. REU
 *Jun 2024 - Jan 2025, Virtual*
 
-## Summer School in Modeling and Simulation with PDE, Texas A&M University
+### Summer School in Modeling and Simulation with PDE, Texas A&M University
 *May 2024, College Station, TX*
 
-## Research Opportunities in Mathematics for Underrepresented Students (ROMUS) Program, Ohio State University
+### Research Opportunities in Mathematics for Underrepresented Students (ROMUS) Program, Ohio State University
 *Jun 2023 - August 2023, Columbus, OH*
+
 *Mentored by Prof. Yulong Xing*
 
-## Thermal Management Research, Yang Lab, Columbia University
+### Thermal Management Research, Yang Lab, Columbia University
 *Jan 2023 - May 2023, New York, NY*
+
 *Mentored by Prof. Yuan Yang, Dr. Qilong Cheng*
 
-## 2022 Polymath Jr. REU
+### 2022 Polymath Jr. REU
 *Jun 2022 - Jun 2023, Virtual*
 
 # 💼 Internship Experience
@@ -99,17 +104,17 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 <!-- ## Applied Scientist Intern, System Technology & Engineering, ByteDance Inc.
 *Jun 2025 - Sep 2025, San Jose, CA* -->
 
-## Research Intern, Chinese Development Finance Program, AidData
+### Research Intern, Chinese Development Finance Program, AidData
 *Feb 2022 - Jun 2022, Williamsburg, VA*
 *Supervised by Sheng Zhang*
 
 # 👨‍🏫 Teaching Experience
 
-## Undergraduate Teaching Assistant, Columbia University
+### Undergraduate Teaching Assistant, Columbia University
 *Sep 2023 - May 2025, New York, NY*
 - **Courses**: Intro to Modern Algebra II, Ordinary Differential Equations, Number Theory and Cryptography
 
 # 🤝 Volunteer Experience
 
-## Coach, Tencent MiniE Innocamp - Product Entrepreneurship, Tencent
+### Coach, Tencent MiniE Innocamp - Product Entrepreneurship, Tencent
 *Aug 2022, Shenzhen, China*
