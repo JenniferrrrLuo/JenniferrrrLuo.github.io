@@ -74,18 +74,18 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 - **Project 3: TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes** <br>
   *Mentored by Minghao Guo*
 
-**[2024-2025]** **Polymath Jr. REU**  
+**[2024-2025]** **Polymath Jr. REU** <br>
 *Jun 2024 - Aug 2025 (continued till Jan 2025), Virtual*
 
-**[2024]** **Summer School in Modeling and Simulation with PDE, Texas A&M University**  
+**[2024]** **Summer School in Modeling and Simulation with PDE, Texas A&M University** <br>
 *May 2024, College Station, TX*
 
-**[2023-2025]** **Research Opportunities in Mathematics for Underrepresented Students (ROMUS) Program, Ohio State University**
+**[2023-2025]** **Research Opportunities in Mathematics for Underrepresented Students (ROMUS) Program, Ohio State University** <br>
 *Jun 2023 - Aug 2023 (continued till May 2025), Columbus, OH* <br>
 *Mentored by Prof. Yulong Xing*
 
-**[2023]** **Thermal Management Research, Yang Lab, Columbia University** <br>
-*Jan 2023 - May 2023, New York, NY*
+**[2023]** **Thermal Management Research, Yang Lab, Columbia University**
+*Jan 2023 - May 2023, New York, NY* <br>
 *Mentored by Prof. Yuan Yang, Dr. Qilong Cheng*
 
 **[2022-2023]** **Polymath Jr. REU**  
