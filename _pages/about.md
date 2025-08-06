@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Engineering at the University of Washington. My research interests include numerical analysis, PDEs, computer graphics, and physics simulations. 
+I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Engineering at the University of Washington. My research interests include computer graphics, and physics simulations, numerical analysis, PDEs. 
 
 # 📝 Publications
 
@@ -68,26 +68,31 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 ## MIT Summer Geometry Initiative 2024 Fellow
 *Jul 2024 - Sep 2024, Virtual*
 
-**Project 1: Poisson Surface Reconstruction**
+- **Project 1: Poisson Surface Reconstruction**
+  *Mentored by Oded Stein and Silvia Sellán*
 
-**Project 2: Geometry-aware Facial Expression and Head Synthesis**
+- **Project 2: Geometry-aware Facial Expression and Head Synthesis**
+  *Mentored by Dena Bazazian*
 
-**Project 3: TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**
+- **Project 3: TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**
+  *Mentored by Minghao Guo*
 
-## Nonlocal Models Research, 2024 Polymath Jr. REU
+## 2024 Polymath Jr. REU
 *Jun 2024 - Jan 2025, Virtual*
-
-## Research Opportunities in Mathematics for Underrepresented Students (ROMUS) Program, Ohio State University
-*Jun 2023 - August 2023, Columbus, OH*
-
-## Thermal Management Research, Yang Lab, Columbia University
-*Jan 2023 - May 2023, New York, NY*
-
-## 2022 Polymath Jr. REU
-*Jun 2022 - Jun 2023, Virtual*
 
 ## Summer School in Modeling and Simulation with PDE, Texas A&M University
 *May 2024, College Station, TX*
+
+## Research Opportunities in Mathematics for Underrepresented Students (ROMUS) Program, Ohio State University
+*Jun 2023 - August 2023, Columbus, OH*
+*Mentored by Prof. Yulong Xing*
+
+## Thermal Management Research, Yang Lab, Columbia University
+*Jan 2023 - May 2023, New York, NY*
+*Mentored by Prof. Yuan Yang, Dr. Qilong Cheng*
+
+## 2022 Polymath Jr. REU
+*Jun 2022 - Jun 2023, Virtual*
 
 # 💼 Internship Experience
 
@@ -96,6 +101,7 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 
 ## Research Intern, Chinese Development Finance Program, AidData
 *Feb 2022 - Jun 2022, Williamsburg, VA*
+*Supervised by Sheng Zhang*
 
 # 👨‍🏫 Teaching Experience
 
