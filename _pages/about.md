@@ -17,15 +17,45 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Engineering at the University of Washington. My research interests include computer graphics, and physics simulations, numerical analysis, PDEs. 
+I'm an incoming CS Ph.D. student at the University of Washington, advised by Gilbert Bernstein. Previously, I completed my B.A. at Columbia University with a double major in Mathematics and Computer Science. My research interests include computer graphics, physics simulations, and numerical analysis. 
 
 # 📝 Publications
 
-**[1]** Yiming Chen, Dianlun Luo, Wenlong Pei, Yulong Xing. [Efficient Variable Time-stepping Adaptive DLN Algorithms for the Allen-Cahn Equation](https://doi.org/10.1007/s10915-025-02980-4). *J Sci Comput* **104**, 67 (2025).
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J Sci Comput 2025</div><img src='https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10915-025-02980-4/MediaObjects/10915_2025_2980_Fig1_HTML.png?as=webp' alt="DLN Algorithms" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-**[2]** Mehmet Celik, Mathis Duguin, Jia Guo, Dianlun Luo, Kamryn Spinelli, Yunus E. Zeytuncu, Zhuoyu Zhu. [Exploring a Geometric Conjecture, Some Properties of Blaschke Products, and the Geometry of Curves Formed by Them](https://doi.org/10.1007/s40315-025-00579-2). *Comput. Methods Funct. Theory* (2025).
+[Efficient Variable Time-stepping Adaptive DLN Algorithms for the Allen-Cahn Equation](https://doi.org/10.1007/s10915-025-02980-4)
 
-**[3]** Qilong Cheng, Chao Tang, Dianlun Luo, Minjoon Park, Steven Tian, Yuan Yang. [A Dynamic Wall Design with Tunable Angular Emissivity for All-season Thermal Regulation](https://doi.org/10.1016/j.xcrp.2024.101934). *Cell Reports Physical Science* **5**, no. 5 (May 1, 2024): 101934–34.
+**Yiming Chen**, Dianlun Luo, Wenlong Pei, Yulong Xing
+
+[**Project**](https://doi.org/10.1007/s10915-025-02980-4) <strong><span class='show_paper_citations' data=''></span></strong>
+- Efficient variable time-stepping adaptive DLN algorithms for the Allen-Cahn equation with improved numerical stability and computational efficiency.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comput. Methods Funct. Theory 2025</div><img src='https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs40315-025-00579-2/MediaObjects/40315_2025_579_Fig1_HTML.png' alt="Blaschke Products" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring a Geometric Conjecture, Some Properties of Blaschke Products, and the Geometry of Curves Formed by Them](https://doi.org/10.1007/s40315-025-00579-2)
+
+**Mehmet Celik**, Mathis Duguin, Jia Guo, Dianlun Luo, Kamryn Spinelli, Yunus E. Zeytuncu, Zhuoyu Zhu
+
+[**Project**](https://doi.org/10.1007/s40315-025-00579-2) <strong><span class='show_paper_citations' data=''></span></strong>
+- Investigation of geometric conjectures related to Blaschke products and their connection to curve geometry.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Physical Science 2024</div><img src='https://www.cell.com/cms/10.1016/j.xcrp.2024.101934/asset/93569b96-8bc5-4fdf-94a5-6276b08c5af1/main.assets/gr3.jpg' alt="Dynamic Wall Design" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Dynamic Wall Design with Tunable Angular Emissivity for All-season Thermal Regulation](https://doi.org/10.1016/j.xcrp.2024.101934)
+
+**Qilong Cheng**, Chao Tang, Dianlun Luo, Minjoon Park, Steven Tian, Yuan Yang
+
+[**Project**](https://doi.org/10.1016/j.xcrp.2024.101934) <strong><span class='show_paper_citations' data=''></span></strong>
+- Development of dynamic wall design with tunable angular emissivity for all-season thermal regulation.
+</div>
+</div>
 
 # 🎤 Talks
 
@@ -77,13 +107,24 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 
 **Polymath Jr. REU** <span style="float: right;">*Jun 2022 - Aug 2022 (continued till Jun 2023), Virtual*</span>
 
-# 💼 Internship Experience
+# 💼 Internships
 
 <!-- **[2025]** **Applied Scientist Intern, System Technology & Engineering, ByteDance Inc.**
 *Jun 2025 - Sep 2025, San Jose, CA* -->
 
 **Research Intern, Chinese Development Finance Program, AidData** <span style="float: right;">*Feb 2022 - Jun 2022, Williamsburg, VA*</span> <br>
 *Supervised by Sheng Zhang*
+
+# 🎓 Education
+
+**University of Washington** <span style="float: right;">*Sep 2025 - Present, Seattle, WA*</span>
+- Incoming Ph.D. Student in Computer Science & Engineering
+
+**Columbia College, Columbia University** <span style="float: right;">*Sep 2022 - May 2025, New York, NY*</span>
+- B.A. in Mathematics, Computer Science
+
+**College of William and Mary** <span style="float: right;">*Sep 2021 - Jun 2022, Williamsburg, VA*</span>
+- Transferred out
 
 # 👨‍🏫 Teaching Experience
 
