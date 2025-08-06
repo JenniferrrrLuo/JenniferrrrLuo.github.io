@@ -22,9 +22,9 @@ h1, h2, h3, h4, h5, h6 {
   color: black !important;
 } */
 
-/* strong, b {
+strong, b, ** {
   color: black !important;
-} */
+}
 
 /* em, i {
   color: black !important;
