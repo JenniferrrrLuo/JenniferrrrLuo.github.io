@@ -67,11 +67,11 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 
 **[2024]** **MIT Summer Geometry Initiative 2024 Fellow**  
 *Jul 2024 - Sep 2024, Virtual*
-- **Project 1: Poisson Surface Reconstruction**
+- **Project 1: Poisson Surface Reconstruction** <br>
   *Mentored by Oded Stein and Silvia Sellán*
-- **Project 2: Geometry-aware Facial Expression and Head Synthesis**
+- **Project 2: Geometry-aware Facial Expression and Head Synthesis** <br>
   *Mentored by Dena Bazazian*
-- **Project 3: TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**
+- **Project 3: TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes** <br>
   *Mentored by Minghao Guo*
 
 **[2024-2025]** **Polymath Jr. REU**  
@@ -80,11 +80,13 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 **[2024]** **Summer School in Modeling and Simulation with PDE, Texas A&M University**  
 *May 2024, College Station, TX*
 
-**[2023-2025]** **Research Opportunities in Mathematics for Underrepresented Students (ROMUS) Program, Ohio State University** *Mentored by Prof. Yulong Xing*
-*Jun 2023 - Aug 2023 (continued till May 2025), Columbus, OH*
+**[2023-2025]** **Research Opportunities in Mathematics for Underrepresented Students (ROMUS) Program, Ohio State University**
+*Jun 2023 - Aug 2023 (continued till May 2025), Columbus, OH* <br>
+*Mentored by Prof. Yulong Xing*
 
-**[2023]** **Thermal Management Research, Yang Lab, Columbia University** *Mentored by Prof. Yuan Yang, Dr. Qilong Cheng*
+**[2023]** **Thermal Management Research, Yang Lab, Columbia University** <br>
 *Jan 2023 - May 2023, New York, NY*
+*Mentored by Prof. Yuan Yang, Dr. Qilong Cheng*
 
 **[2022-2023]** **Polymath Jr. REU**  
 *Jun 2022 - Aug 2022 (continued till Jun 2023), Virtual*
@@ -94,8 +96,9 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 <!-- **[2025]** **Applied Scientist Intern, System Technology & Engineering, ByteDance Inc.**
 *Jun 2025 - Sep 2025, San Jose, CA* -->
 
-**[2022]** **Research Intern, Chinese Development Finance Program, AidData** *Supervised by Sheng Zhang*
-*Feb 2022 - Jun 2022, Williamsburg, VA*
+**[2022]** **Research Intern, Chinese Development Finance Program, AidData**  
+*Feb 2022 - Jun 2022, Williamsburg, VA* <br>
+*Supervised by Sheng Zhang*
 
 # 👨‍🏫 Teaching Experience
 
