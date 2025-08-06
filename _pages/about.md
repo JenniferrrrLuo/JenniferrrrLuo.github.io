@@ -14,6 +14,19 @@ h1, h2, h3, h4, h5, h6 {
   color: black !important;
 }
 
+/* Prevent line breaks in names */
+.author__name, .author__content h2, .author__content h3 {
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+
+/* Ensure author name stays on one line */
+.author__name {
+  display: inline-block !important;
+  white-space: nowrap !important;
+}
+
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
