@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 <style>
-body {
-  color: black !important;
-}
 
 h1, h2, h3, h4, h5, h6 {
   color: black !important;
@@ -29,9 +26,9 @@ strong, b {
   color: black !important;
 }
 
-em, i {
+/* em, i {
   color: black !important;
-}
+} */
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
