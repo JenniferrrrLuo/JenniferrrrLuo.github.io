@@ -91,14 +91,14 @@ Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
 - Project 3: TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes <br>
   *Mentored by Minghao Guo*
 
-**2024 Polymath Jr. REU** <span style="float: right;">*Jun 2024 - Aug 2025 (continued till Jan 2025), Virtual*</span>
-*Mentored by Prof. Petronela Radu, Prof. Mikil Foss*
+**2024 Polymath Jr. REU** <span style="float: right;">*Jun 2024 - Aug 2025 (continued till Jan 2025), Virtual*</span> <br>
+*Mentored by Prof. Petronela Radu, Prof. Mikil Foss* <br>
 - Nonlocal Initial Value Problems - Theoretical, Modeling, and Numerical Aspects
 
-**Undergraduate Summer School on Modeling and Simulation with Partial Differential Equations, Texas A&M University** <span style="float: right;">*May 2024, College Station, TX*</span>
+**Summer School on Modeling and Simulation with Partial Differential Equations, Texas A&M University** <span style="float: right;">*May 2024, College Station, TX*</span>
 
 **Research Opportunities in Mathematics for Underrepresented Students (ROMUS), Ohio State University** <span style="float: right;">*Jun 2023 - Aug 2023 (continued till May 2025), Columbus, OH*</span> <br>
-*Mentored by Prof. Yulong Xing*
+*Mentored by Prof. Yulong Xing* <br>
 - Study of Variable Step Method of Dahlquist, Liniger, and Nevanlinna for the Allen-Cahn Model
 
 **Thermal Management Research, Yang Lab, Columbia University** <span style="float: right;">*Jan 2023 - May 2023, New York, NY*</span> <br>
@@ -135,7 +135,9 @@ Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
 # 👨‍🏫 Teaching Experience
 
 **Undergraduate Teaching Assistant, Columbia University** <span style="float: right;">*Sep 2023 - May 2025, New York, NY*</span>
-- **Courses**: Intro to Modern Algebra II, Ordinary Differential Equations, Number Theory and Cryptography
+- MATH UN3020 Number Theory and Cryptography: Spring 2025 <br>
+- MATH GU4042 Intro to Modern Algebra II: Fall 2024 <br>
+- MATH UN2030 Ordinary Differential Equations	Fall 2023: Spring 2024
 
 # 🤝 Volunteer Experience
 
