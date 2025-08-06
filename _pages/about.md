@@ -21,11 +21,11 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 
 # 📝 Publications
 
-Yiming Chen, Dianlun Luo, Wenlong Pei, Yulong Xing. [Efficient Variable Time-stepping Adaptive DLN Algorithms for the Allen-Cahn Equation](https://doi.org/10.1007/s10915-025-02980-4). *J Sci Comput* **104**, 67 (2025).
+**[1]** Yiming Chen, Dianlun Luo, Wenlong Pei, Yulong Xing. [Efficient Variable Time-stepping Adaptive DLN Algorithms for the Allen-Cahn Equation](https://doi.org/10.1007/s10915-025-02980-4). *J Sci Comput* **104**, 67 (2025).
 
-Mehmet Celik, Mathis Duguin, Jia Guo, Dianlun Luo, Kamryn Spinelli, Yunus E. Zeytuncu, Zhuoyu Zhu. [Exploring a Geometric Conjecture, Some Properties of Blaschke Products, and the Geometry of Curves Formed by Them](https://doi.org/10.1007/s40315-025-00579-2). *Comput. Methods Funct. Theory* (2025).
+**[2]** Mehmet Celik, Mathis Duguin, Jia Guo, Dianlun Luo, Kamryn Spinelli, Yunus E. Zeytuncu, Zhuoyu Zhu. [Exploring a Geometric Conjecture, Some Properties of Blaschke Products, and the Geometry of Curves Formed by Them](https://doi.org/10.1007/s40315-025-00579-2). *Comput. Methods Funct. Theory* (2025).
 
-Qilong Cheng, Chao Tang, Dianlun Luo, Minjoon Park, Steven Tian, Yuan Yang. [A Dynamic Wall Design with Tunable Angular Emissivity for All-season Thermal Regulation](https://doi.org/10.1016/j.xcrp.2024.101934). *Cell Reports Physical Science* **5**, no. 5 (May 1, 2024): 101934–34.
+**[3]** Qilong Cheng, Chao Tang, Dianlun Luo, Minjoon Park, Steven Tian, Yuan Yang. [A Dynamic Wall Design with Tunable Angular Emissivity for All-season Thermal Regulation](https://doi.org/10.1016/j.xcrp.2024.101934). *Cell Reports Physical Science* **5**, no. 5 (May 1, 2024): 101934–34.
 
 # 🎤 Talks
 
@@ -69,7 +69,7 @@ Qilong Cheng, Chao Tang, Dianlun Luo, Minjoon Park, Steven Tian, Yuan Yang. [A D
 
 **Summer School in Modeling and Simulation with PDE, Texas A&M University** <span style="float: right;">*May 2024, College Station, TX*</span>
 
-**Research Opportunities in Mathematics for Underrepresented Students (ROMUS) Program, Ohio State University** <span style="float: right;">*Jun 2023 - Aug 2023 (continued till May 2025), Columbus, OH*</span> <br>
+**Research Opportunities in Mathematics for Underrepresented Students (ROMUS), Ohio State University** <span style="float: right;">*Jun 2023 - Aug 2023 (continued till May 2025), Columbus, OH*</span> <br>
 *Mentored by Prof. Yulong Xing*
 
 **Thermal Management Research, Yang Lab, Columbia University** <span style="float: right;">*Jan 2023 - May 2023, New York, NY*</span> <br>
