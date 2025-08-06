@@ -152,7 +152,7 @@ Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
 
 <span class='anchor' id='-educations'></span>
 
-# 🎓 Education
+# 🎓 Educations
 
 **University of Washington** <span style="float: right;">*Sep 2025 - Present, Seattle, WA*</span>
 - Incoming Ph.D. Student in Computer Science & Engineering
