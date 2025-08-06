@@ -15,11 +15,11 @@ main:
   - title: "Internships"
     url: "/#-internships"
 
-  - title: "Research Experience"
-    url: "/#-research"
+  - title: "Research"
+    url: "/#-research-experience"
 
-  - title: "Teaching Experience"
-    url: "/#-teaching"
+  - title: "Teaching"
+    url: "/#-teaching-experience"
 
-  - title: "Volunteer Experience"
-    url: "/#-volunteer"
+  - title: "Volunteer"
+    url: "/#-volunteer-experience"

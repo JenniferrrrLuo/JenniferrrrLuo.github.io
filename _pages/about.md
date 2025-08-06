@@ -42,6 +42,8 @@ strong, b, ** {
 
 I'm an incoming CS Ph.D. student at the University of Washington advised by Gilbert Bernstein. Previously, I completed my B.A. at Columbia University with a double major in Mathematics and Computer Science. My research interests include computer graphics, physics simulations, and numerical analysis. 
 
+<span class='anchor' id='-publications'></span>
+
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J Sci Comput 2025</div><img src='https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10915-025-02980-4/MediaObjects/10915_2025_2980_Fig1_HTML.png?as=webp' alt="DLN Algorithms" width="100%"></div></div>
@@ -76,6 +78,8 @@ Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
 </div>
 </div>
 
+<span class='anchor' id='-talks'></span>
+
 # 🎤 Talks
 
 **Joint Mathematics Meetings** <span style="float: right;">*Jan 8-10, 2025, Seattle, WA*</span>
@@ -103,6 +107,8 @@ Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
 
 **Directed Reading Program, Columbia University** <span style="float: right;">*Dec 15, 2022, New York, NY*</span>
 - Introduction to Elliptic Curves and Mordell's Theorem
+
+<span class='anchor' id='-research-experience'></span>
 
 # 💬 Research Experience
 
@@ -136,6 +142,8 @@ Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
 *Mentored by Kevin Yaolin Chang*
 - Rational points on elliptic curves
 
+<span class='anchor' id='-internships'></span>
+
 # 💼 Internships
 
 <!-- **[2025]** **Applied Scientist Intern, System Technology & Engineering, ByteDance Inc.**
@@ -143,6 +151,8 @@ Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
 
 **Research Intern, Chinese Development Finance Program, AidData** <span style="float: right;">*Feb 2022 - Jun 2022, Williamsburg, VA*</span> <br>
 *Supervised by Sheng Zhang*
+
+<span class='anchor' id='-educations'></span>
 
 # 🎓 Education
 
@@ -155,12 +165,16 @@ Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
 **College of William and Mary** <span style="float: right;">*Sep 2021 - Jun 2022, Williamsburg, VA*</span>
 - Transferred out
 
+<span class='anchor' id='-teaching-experience'></span>
+
 # 👨‍🏫 Teaching Experience
 
 **Undergraduate Teaching Assistant, Columbia University** <span style="float: right;">*Sep 2023 - May 2025, New York, NY*</span>
 - MATH UN3020 Number Theory and Cryptography: Spring 2025 <br>
 - MATH GU4042 Intro to Modern Algebra II: Fall 2024 <br>
 - MATH UN2030 Ordinary Differential Equations	Fall 2023: Spring 2024
+
+<span class='anchor' id='-volunteer-experience'></span>
 
 # 🤝 Volunteer Experience
 
