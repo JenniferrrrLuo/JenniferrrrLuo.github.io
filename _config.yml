@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dianlun (Jennifer) Luo"
   avatar           : "images/avatar.jpeg"
-  bio              : 
+  bio              : "incoming CS Ph.D. student at UW"
   location         : 
-  employer         :
+  employer         :  
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "jennluo@cs.washington.edu"
