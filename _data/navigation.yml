@@ -9,14 +9,14 @@ main:
   - title: "Talks"
     url: "/#-talks"
 
+  - title: "Research"
+    url: "/#-research-experience"
+
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Internships"
     url: "/#-internships"
-
-  - title: "Research"
-    url: "/#-research-experience"
 
   - title: "Teaching"
     url: "/#-teaching-experience"
