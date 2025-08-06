@@ -8,6 +8,32 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+body {
+  color: black !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: black !important;
+}
+
+p, div, span, li {
+  color: black !important;
+}
+
+a {
+  color: black !important;
+}
+
+strong, b {
+  color: black !important;
+}
+
+em, i {
+  color: black !important;
+}
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -17,7 +43,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an incoming CS Ph.D. student at the University of Washington, advised by Gilbert Bernstein. Previously, I completed my B.A. at Columbia University with a double major in Mathematics and Computer Science. My research interests include computer graphics, physics simulations, and numerical analysis. 
+I'm an incoming CS Ph.D. student at the University of Washington advised by Gilbert Bernstein. Previously, I completed my B.A. at Columbia University with a double major in Mathematics and Computer Science. My research interests include computer graphics, physics simulations, and numerical analysis. 
 
 # 📝 Publications
 
