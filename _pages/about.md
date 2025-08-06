@@ -14,16 +14,6 @@ h1, h2, h3, h4, h5, h6 {
   color: black !important;
 }
 
-strong, b {
-  color: black !important;
-  font-weight: bold !important;
-}
-
-/* Target markdown bold syntax **text** */
-* {
-  color: black !important;
-}
-
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
