@@ -108,7 +108,7 @@ Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
 
 <span class='anchor' id='-research-experience'></span>
 
-# 💬 Research Experience
+# 🔬 Research Experience
 
 **2024 Fellow, MIT Summer Geometry Initiative** <span style="float: right;">*Jul 2024 - Sep 2024, Virtual*</span>
 - Project 1: Poisson Surface Reconstruction <br>
