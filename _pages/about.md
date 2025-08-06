@@ -83,7 +83,7 @@ Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
 
 # 💬 Research Experience
 
-**MIT Summer Geometry Initiative 2024 Fellow** <span style="float: right;">*Jul 2024 - Sep 2024, Virtual*</span>
+**2024 Fellow, MIT Summer Geometry Initiative** <span style="float: right;">*Jul 2024 - Sep 2024, Virtual*</span>
 - Project 1: Poisson Surface Reconstruction <br>
   *Mentored by Oded Stein and Silvia Sellán*
 - Project 2: Geometry-aware Facial Expression and Head Synthesis <br>
@@ -92,16 +92,26 @@ Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
   *Mentored by Minghao Guo*
 
 **2024 Polymath Jr. REU** <span style="float: right;">*Jun 2024 - Aug 2025 (continued till Jan 2025), Virtual*</span>
+*Mentored by Prof. Petronela Radu, Prof. Mikil Foss*
+- Nonlocal Initial Value Problems - Theoretical, Modeling, and Numerical Aspects
 
-**Summer School in Modeling and Simulation with PDE, Texas A&M University** <span style="float: right;">*May 2024, College Station, TX*</span>
+**Undergraduate Summer School on Modeling and Simulation with Partial Differential Equations, Texas A&M University** <span style="float: right;">*May 2024, College Station, TX*</span>
 
 **Research Opportunities in Mathematics for Underrepresented Students (ROMUS), Ohio State University** <span style="float: right;">*Jun 2023 - Aug 2023 (continued till May 2025), Columbus, OH*</span> <br>
 *Mentored by Prof. Yulong Xing*
+- Study of Variable Step Method of Dahlquist, Liniger, and Nevanlinna for the Allen-Cahn Model
 
 **Thermal Management Research, Yang Lab, Columbia University** <span style="float: right;">*Jan 2023 - May 2023, New York, NY*</span> <br>
-*Mentored by Prof. Yuan Yang, Dr. Qilong Cheng*
+*Mentored by Prof. Yuan Yang, Dr. Qilong Cheng* <br>
+- Modeling and designs of radiative cooling materials for thermal management
 
 **2022 Polymath Jr. REU** <span style="float: right;">*Jun 2022 - Aug 2022 (continued till Jun 2023), Virtual*</span>
+*Mentored by Prof Yunus Zeytuncu, Prof Mehmet Celik*
+- Finding Ellipses: Blaschke products and their connection with Poncelet’s theorem
+
+**Mathematics Directed Reading Program, Columbia University** <span style="float: right;">*Sep 2022 - Dec 2022, New York, NY*</span> <br>
+*Mentored by Kevin Yaolin Chang*
+- Rational points on elliptic curves
 
 # 💼 Internships
 
