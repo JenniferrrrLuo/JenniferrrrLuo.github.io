@@ -26,10 +26,9 @@ I'm an incoming CS Ph.D. student at the University of Washington, advised by Gil
 
 [Efficient Variable Time-stepping Adaptive DLN Algorithms for the Allen-Cahn Equation](https://doi.org/10.1007/s10915-025-02980-4)
 
-**Yiming Chen**, Dianlun Luo, Wenlong Pei, Yulong Xing
+Yiming Chen, **Dianlun Luo**, Wenlong Pei, Yulong Xing
 
-[**Project**](https://doi.org/10.1007/s10915-025-02980-4) <strong><span class='show_paper_citations' data=''></span></strong>
-- Efficient variable time-stepping adaptive DLN algorithms for the Allen-Cahn equation with improved numerical stability and computational efficiency.
+- Part of the 2023 ROMUS Program.
 </div>
 </div>
 
@@ -38,10 +37,9 @@ I'm an incoming CS Ph.D. student at the University of Washington, advised by Gil
 
 [Exploring a Geometric Conjecture, Some Properties of Blaschke Products, and the Geometry of Curves Formed by Them](https://doi.org/10.1007/s40315-025-00579-2)
 
-**Mehmet Celik**, Mathis Duguin, Jia Guo, Dianlun Luo, Kamryn Spinelli, Yunus E. Zeytuncu, Zhuoyu Zhu
+Mehmet Celik, Mathis Duguin, Jia Guo, **Dianlun Luo**, Kamryn Spinelli, Yunus E. Zeytuncu, Zhuoyu Zhu
 
-[**Project**](https://doi.org/10.1007/s40315-025-00579-2) <strong><span class='show_paper_citations' data=''></span></strong>
-- Investigation of geometric conjectures related to Blaschke products and their connection to curve geometry.
+- Part of the 2022 Polymath Jr. REU.
 </div>
 </div>
 
@@ -50,10 +48,8 @@ I'm an incoming CS Ph.D. student at the University of Washington, advised by Gil
 
 [A Dynamic Wall Design with Tunable Angular Emissivity for All-season Thermal Regulation](https://doi.org/10.1016/j.xcrp.2024.101934)
 
-**Qilong Cheng**, Chao Tang, Dianlun Luo, Minjoon Park, Steven Tian, Yuan Yang
+Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
 
-[**Project**](https://doi.org/10.1016/j.xcrp.2024.101934) <strong><span class='show_paper_citations' data=''></span></strong>
-- Development of dynamic wall design with tunable angular emissivity for all-season thermal regulation.
 </div>
 </div>
 
@@ -95,7 +91,7 @@ I'm an incoming CS Ph.D. student at the University of Washington, advised by Gil
 - Project 3: TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes <br>
   *Mentored by Minghao Guo*
 
-**Polymath Jr. REU** <span style="float: right;">*Jun 2024 - Aug 2025 (continued till Jan 2025), Virtual*</span>
+**2024 Polymath Jr. REU** <span style="float: right;">*Jun 2024 - Aug 2025 (continued till Jan 2025), Virtual*</span>
 
 **Summer School in Modeling and Simulation with PDE, Texas A&M University** <span style="float: right;">*May 2024, College Station, TX*</span>
 
@@ -105,7 +101,7 @@ I'm an incoming CS Ph.D. student at the University of Washington, advised by Gil
 **Thermal Management Research, Yang Lab, Columbia University** <span style="float: right;">*Jan 2023 - May 2023, New York, NY*</span> <br>
 *Mentored by Prof. Yuan Yang, Dr. Qilong Cheng*
 
-**Polymath Jr. REU** <span style="float: right;">*Jun 2022 - Aug 2022 (continued till Jun 2023), Virtual*</span>
+**2022 Polymath Jr. REU** <span style="float: right;">*Jun 2022 - Aug 2022 (continued till Jun 2023), Virtual*</span>
 
 # 💼 Internships
 
