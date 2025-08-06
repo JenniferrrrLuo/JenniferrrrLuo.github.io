@@ -14,21 +14,11 @@ h1, h2, h3, h4, h5, h6 {
   color: black !important;
 }
 
-/* p, div, span, li {
-  color: black !important;
-} */
-
-/* a {
-  color: black !important;
-} */
-
 strong, b, ** {
   color: black !important;
+  font-weight: bold !important;
 }
 
-/* em, i {
-  color: black !important;
-} */
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
