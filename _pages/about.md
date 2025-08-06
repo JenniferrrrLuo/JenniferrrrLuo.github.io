@@ -67,17 +67,11 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 
 **[2024]** **MIT Summer Geometry Initiative 2024 Fellow**  
 *Jul 2024 - Sep 2024, Virtual*
-
 - **Project 1: Poisson Surface Reconstruction**
-  
   *Mentored by Oded Stein and Silvia Sellán*
-
 - **Project 2: Geometry-aware Facial Expression and Head Synthesis**
-
   *Mentored by Dena Bazazian*
-
 - **Project 3: TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**
-  
   *Mentored by Minghao Guo*
 
 **[2024-2025]** **Polymath Jr. REU**  
@@ -88,12 +82,10 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 
 **[2023-2025]** **Research Opportunities in Mathematics for Underrepresented Students (ROMUS) Program, Ohio State University**  
 *Jun 2023 - Aug 2023 (continued till May 2025), Columbus, OH*
-
 *Mentored by Prof. Yulong Xing*
 
 **[2023]** **Thermal Management Research, Yang Lab, Columbia University**  
 *Jan 2023 - May 2023, New York, NY*
-
 *Mentored by Prof. Yuan Yang, Dr. Qilong Cheng*
 
 **[2022-2023]** **Polymath Jr. REU**  
@@ -106,7 +98,6 @@ I am Dianlun (Jennifer) Luo, an incoming Ph.D. student in Computer Science & Eng
 
 **[2022]** **Research Intern, Chinese Development Finance Program, AidData**  
 *Feb 2022 - Jun 2022, Williamsburg, VA*
-
 *Supervised by Sheng Zhang*
 
 # 👨‍🏫 Teaching Experience
