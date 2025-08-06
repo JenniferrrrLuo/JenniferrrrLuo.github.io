@@ -30,39 +30,39 @@ Qilong Cheng, Chao Tang, Dianlun Luo, Minjoon Park, Steven Tian, Yuan Yang. [A D
 # 🎤 Talks
 
 **Joint Mathematics Meetings** <span style="float: right;">*Jan 8-10, 2025, Seattle, WA*</span>
-- **Applied and Numerical Aspects of Nonlocal Initial Value Problems** (Jan 8, 2025)
-- **Applied and Numerical Aspects of Nonlocal Initial Value Problems** (Jan 10, 2025)
+- Applied and Numerical Aspects of Nonlocal Initial Value Problems (Jan 8, 2025)
+- Applied and Numerical Aspects of Nonlocal Initial Value Problems (Jan 10, 2025)
 
 **Polymath Jr. Final Conference** <span style="float: right;">*Aug 14, 2024, Virtual*</span>
-- **Nonlocal Initial Value Problems - Theoretical, Modeling, and Numerical Aspects**
+- Nonlocal Initial Value Problems - Theoretical, Modeling, and Numerical Aspects
 
 **Undergraduate Summer School on Modeling and Simulation with Partial Differential Equations, Texas A&M University** <span style="float: right;">*May 31, 2024, College Station, TX*</span>
-- **Hyperbolic Nonlinear Elasticity. An Investigation.**
+- Hyperbolic Nonlinear Elasticity. An Investigation.
 
 **MATH UN3951 Undergraduate Seminars I (Toric Varieties), Columbia University** <span style="float: right;">*Oct 2023 - Nov 2023, New York, NY*</span>
-- **Toric resolution of singularities** (Oct 25, 2023)
-- **Reflexive polytopes and Fano toric varieties** (Nov 19, 2023)
+- Toric resolution of singularities (Oct 25, 2023)
+- Reflexive polytopes and Fano toric varieties (Nov 19, 2023)
 
 **Young Mathematicians Conference, The Ohio State University** <span style="float: right;">*Aug 15, 2023, Columbus, OH*</span>
-- **Study of Variable Step Method of Dahlquist, Liniger, and Nevanlinna for the Allen-Cahn Model**
+- Study of Variable Step Method of Dahlquist, Liniger, and Nevanlinna for the Allen-Cahn Model
 
 **Summer Research Symposium, The Ohio State University** <span style="float: right;">*Jul 27, 2023, Columbus, OH*</span>
-- **Study of Variable Step Method of Dahlquist, Liniger, and Nevanlinna for the Allen-Cahn Model**
+- Study of Variable Step Method of Dahlquist, Liniger, and Nevanlinna for the Allen-Cahn Model
 
 **Joint Mathematics Meetings** <span style="float: right;">*Jan 7, 2023, Boston, MA*</span>
-- **Finding Ellipses: Blaschke products and their connection with Poncelet's theorem**
+- Finding Ellipses: Blaschke products and their connection with Poncelet's theorem
 
 **Directed Reading Program, Columbia University** <span style="float: right;">*Dec 15, 2022, New York, NY*</span>
-- **Introduction to Elliptic Curves and Mordell's Theorem**
+- Introduction to Elliptic Curves and Mordell's Theorem
 
 # 💬 Research Experience
 
 **MIT Summer Geometry Initiative 2024 Fellow** <span style="float: right;">*Jul 2024 - Sep 2024, Virtual*</span>
-- **Project 1: Poisson Surface Reconstruction** <br>
+- Project 1: Poisson Surface Reconstruction <br>
   *Mentored by Oded Stein and Silvia Sellán*
-- **Project 2: Geometry-aware Facial Expression and Head Synthesis** <br>
+- Project 2: Geometry-aware Facial Expression and Head Synthesis <br>
   *Mentored by Dena Bazazian*
-- **Project 3: TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes** <br>
+- Project 3: TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes <br>
   *Mentored by Minghao Guo*
 
 **Polymath Jr. REU** <span style="float: right;">*Jun 2024 - Aug 2025 (continued till Jan 2025), Virtual*</span>
