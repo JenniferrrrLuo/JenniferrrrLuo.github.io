@@ -132,8 +132,8 @@ Qilong Cheng, Chao Tang, **Dianlun Luo**, Minjoon Park, Steven Tian, Yuan Yang
 *Mentored by Prof. Yuan Yang, Dr. Qilong Cheng* <br>
 - Modeling and designs of radiative cooling materials for thermal management
 
-**2022 Polymath Jr. REU** <span style="float: right;">*Jun 2022 - Aug 2022 (continued till Jun 2023), Virtual*</span>
-*Mentored by Prof Yunus Zeytuncu, Prof Mehmet Celik*
+**2022 Polymath Jr. REU** <span style="float: right;">*Jun 2022 - Aug 2022 (continued till Jun 2023), Virtual*</span> <br>
+*Mentored by Prof Yunus Zeytuncu, Prof Mehmet Celik* <br>
 - Finding Ellipses: Blaschke products and their connection with Poncelet’s theorem
 
 **Mathematics Directed Reading Program, Columbia University** <span style="float: right;">*Sep 2022 - Dec 2022, New York, NY*</span> <br>
